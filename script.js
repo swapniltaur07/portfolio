@@ -284,7 +284,7 @@ if (contactForm) {
             btn.textContent = originalText;
             btn.style.opacity = '1';
 
-            showFormMsg('success', '✓ Message sent! I\'ll get back to you soon.');
+            showFormMsg('Sorry, Something Went Wrong!, View Resume To Contact.');
             contactForm.reset();
         }, 1500);
     });
@@ -344,4 +344,5 @@ if (roleBadge) {
 
 // ===== INIT =====
 handleScroll();
+
 setActiveNavLink();
