@@ -1004,7 +1004,7 @@ button[type="submit"]:active {
 }
 
 .form-msg.success {
-    background: rgba(100, 200, 100, 0.15);
+    background: rgba(220, 80, 80, 0.12);
     border: 1px solid rgba(80, 160, 80, 0.4);
     color: #2d7a2d;
     display: block;
@@ -1121,3 +1121,4 @@ footer a:hover i {
     }
 
 }
+
